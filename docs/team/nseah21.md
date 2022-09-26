@@ -41,6 +41,7 @@ In particular, I added/updated the following UML diagrams:
 
 I contributed to the following team-based tasks:
 1. Created the skeletal project portfolio page for my team
+2. Created the UI mockup for RC4HDB
 
 ### Review/mentoring contributions:
 
